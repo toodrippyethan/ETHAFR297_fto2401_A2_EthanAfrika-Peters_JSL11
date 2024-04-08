@@ -1,7 +1,7 @@
 // utils/taskFunction.js
 
 // Simulate fetching tasks from localStorage
-const getTasks = () => {
+export const getTasks = () => {
   const tasks = localStorage.getItem('tasks');
   return tasks ? JSON.parse(tasks) : [];
 };
