@@ -12,6 +12,10 @@ We're providing you with a head start:
 
 - **🪲Important Note on Debugging🚨:** In the sections of the project where you are tasked with debugging the code, it's crucial to focus on identifying and correcting errors within the existing functions rather than undertaking a complete refactoring of the code. This means you will need to carefully analyze the provided starter code to pinpoint syntax errors, logical mistakes, or any bugs that prevent the application from functioning as intended. **The goal is to improve and repair the codebase by making precise adjustments, ensuring that the original structure, function logic and intended functionality are preserved.** This approach not only aligns with the project's requirements but also hones the essential skill of debugging— a critical competency for any developer.
 
+### Walkthrough by Coach Kenneth
+
+Jump into the walkthrough of the project and starter code here: https://www.youtube.com/watch?v=aD8Wx9PGYSc
+
 ### Project Overview
 
 As a newly hired developer at Agile Board, a fictional company specializing in innovative task management solutions, you'll embark on an exciting journey to enhance their flagship Kanban Task Management App.
